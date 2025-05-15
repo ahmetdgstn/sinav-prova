@@ -1,1 +1,2 @@
 kullanıcı id: 101, Puan: 85
+kullanıcı id. 102, puan:92
